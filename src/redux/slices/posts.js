@@ -22,7 +22,7 @@ const initialState = {
     },
     tags: {
         items: [],
-        status: 'locading',
+        status: 'loading',
     },
 };
 
