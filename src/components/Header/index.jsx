@@ -40,7 +40,7 @@ export const Header = () => {
 								<Link to={`${process.env.PUBLIC_URL}/login`}>
 									<Button variant='outlined'>Login</Button>
 								</Link>
-								<Link to='/register'>
+								<Link to={`${process.env.PUBLIC_URL}/register`}>
 									<Button variant='contained'>Register</Button>
 								</Link>
 							</>
