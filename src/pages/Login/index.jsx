@@ -23,8 +23,8 @@ export const Login = () => {
 		}
 	} = useForm({
 		defaultValues: {
-			email: "Password@gmail.com",
-			password: "Password"
+			email: "Petro@gmail.com",
+			password: "Petro@gmail.com"
 		},
 		mode: "onChange"
 		// mode: 'all',
